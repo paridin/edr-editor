@@ -1,0 +1,122 @@
+{
+    "data": {
+        "fields": [
+            {
+                "type": "text",
+                "name": "record_type",
+                "placeholder": "Record Type",
+                "label": "Record Type"
+            },
+            {
+                "type": "text",
+                "name": "record_type",
+                "placeholder": "RECORD TYPE",
+                "label": "RECORD TYPE"
+            },
+            {
+                "type": "text",
+                "name": "a_number",
+                "placeholder": "A NUMBER",
+                "label": "A NUMBER"
+            },
+            {
+                "type": "text",
+                "name": "a_min",
+                "placeholder": "A MIN",
+                "label": "A MIN"
+            },
+            {
+                "type": "text",
+                "name": "b_number",
+                "placeholder": "B NUMBER",
+                "label": "B NUMBER"
+            },
+            {
+                "type": "text",
+                "name": "b_min",
+                "placeholder": "B MIN",
+                "label": "B MIN"
+            },
+            {
+                "type": "text",
+                "name": "start_timestamp",
+                "placeholder": "START TIMESTAMP",
+                "label": "START TIMESTAMP"
+            },
+            {
+                "type": "text",
+                "name": "duration",
+                "placeholder": "DURATION",
+                "label": "DURATION"
+            },
+            {
+                "type": "text",
+                "name": "time_a_va_start",
+                "placeholder": "TIME A VA START",
+                "label": "TIME A VA START"
+            },
+            {
+                "type": "text",
+                "name": "outgoing_trunk",
+                "placeholder": "OUTGOING TRUNK",
+                "label": "OUTGOING TRUNK"
+            },
+            {
+                "type": "text",
+                "name": "incoming_trunk",
+                "placeholder": "INCOMING TRUNK",
+                "label": "INCOMING TRUNK"
+            },
+            {
+                "type": "text",
+                "name": "usage_type",
+                "placeholder": "USAGE TYPE",
+                "label": "USAGE TYPE"
+            },
+            {
+                "type": "text",
+                "name": "a_technology_type",
+                "placeholder": "A TECHNOLOGY TYPE",
+                "label": "A TECHNOLOGY TYPE"
+            },
+            {
+                "type": "text",
+                "name": "a_imsi",
+                "placeholder": "A IMSI",
+                "label": "A IMSI"
+            },
+            {
+                "type": "text",
+                "name": "a_imei",
+                "placeholder": "A IMEI",
+                "label": "A IMEI"
+            },
+            {
+                "type": "text",
+                "name": "b_technology_type",
+                "placeholder": "B TECHNOLOGY TYPE",
+                "label": "B TECHNOLOGY TYPE"
+            },
+            {
+                "type": "text",
+                "name": "b_imsi",
+                "placeholder": "B IMSI",
+                "label": "B IMSI"
+            },
+            {
+                "type": "text",
+                "name": "b_imei",
+                "placeholder": "B IMEI",
+                "label": "B IMEI"
+            },
+            {
+                "type": "text",
+                "name": "utc",
+                "placeholder": "UTC",
+                "label": "UTC"
+            }
+
+        ]
+
+    }
+}
